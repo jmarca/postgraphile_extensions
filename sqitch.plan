@@ -1,3 +1,6 @@
 %syntax-version=1.0.0
 %project=postgraphile_extensions
 
+pgcrypto 2020-04-21T00:20:15Z James E. Marca <james@activimetrics.com> # add pgcrypto extension
+citext 2020-04-21T00:20:59Z James E. Marca <james@activimetrics.com> # add citext extension
+uuid-ossp 2020-04-21T00:24:01Z James E. Marca <james@activimetrics.com> # add uuid extension
